@@ -11,6 +11,7 @@ My goal is to create useful and functional sites.
     * CSS3
     * JavaScript
     * GitHub
+    * Markdown
 1. Code examples
 
 ```
