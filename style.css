@@ -1,0 +1,32 @@
+body {
+    max-width: 1024px;
+    margin: auto;
+}
+.header-position {
+    text-align: center;
+}
+.img_photo {
+    border-radius: 81px;
+}
+ul {
+    margin-left: 15px; 
+    padding: 0;
+}
+.header-name {
+    font-weight: bold;
+    color: darkblue;
+}
+.footer_w {
+	display: flex;
+  	flex-flow: row nowrap;
+  	height: 100%;
+}
+.github {
+	font-size: 20px;
+}
+.img_footer {
+	height: 30px;
+}
+.footer_d {
+	margin: auto;
+}
