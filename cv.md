@@ -9,6 +9,9 @@ My goal is to create useful and functional sites.
 1. Skills
     * GitHub
     * Markdown
+    * HTML
+    * CSS
+    * JavaScript
 1. Code examples
 
     ```
