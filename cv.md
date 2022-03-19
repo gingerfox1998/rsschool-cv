@@ -25,5 +25,6 @@ My goal is to create useful and functional sites.
 Soon...
 1. Education
     * [RS School](https://rs.school). HTML, CSS and Git knowledge.
+    * [HTML Academy](https://htmlacademy.ru). CSS and HTML courses.
 1. English  
 B1-Intermediate.
