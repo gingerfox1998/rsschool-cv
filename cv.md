@@ -21,8 +21,8 @@ My goal is to create useful and functional sites.
         <li>Third element</li>
     </ul>
     ```
-1. Experience  
-Soon...
+1. Projects  
+[CV](https://github.com/gingerfox1998/rsschool-cv/tree/gh-pages)
 1. Education
     * [RS School](https://rs.school). HTML, CSS and Git knowledge.
     * [HTML Academy](https://htmlacademy.ru). CSS and HTML courses.
