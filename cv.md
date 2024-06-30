@@ -1,4 +1,3 @@
-#Junior Developer Resume
 # Junior Developer Resume
 1. First Name, Last Name  
 Margarita Ozhgibesova
